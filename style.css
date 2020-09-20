@@ -12,3 +12,28 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+header {
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header img {
+    margin: 10px;
+    border-radius: 50%;
+}
+
+header li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
