@@ -37,3 +37,34 @@ header a {
     font-size: 14px;
 }
 
+main img {
+    width: 400px;
+}
+
+.description {
+    background-color: #eeeeee;
+    padding: 50px 100px;
+}
+
+.description img {
+    float: left;
+    margin-right: 30px;
+}
+
+.description-p2 {
+    clear: both;
+    padding-top: 30px;
+}
+
+.relationship {
+    padding: 50px 100px;
+}
+
+.relationship img {
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+

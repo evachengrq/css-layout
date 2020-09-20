@@ -1,0 +1,25 @@
+{
+  "name": "css-layout",
+  "version": "1.0.0",
+  "description": "just a practice",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evachengrq/css-layout.git"
+  },
+  "keywords": [
+    "19880818GitHub"
+  ],
+  "author": "evacheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evachengrq/css-layout/issues"
+  },
+  "homepage": "https://github.com/evachengrq/css-layout#readme"
+}
